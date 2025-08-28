@@ -1,0 +1,8 @@
+# Ignorer tous les dossiers reports (n'importe où dans le dépôt)
+# reports/
+
+# Ignorer les fichiers logs
+*.log
+
+# Ignorer les fichiers JSON
+*.json
